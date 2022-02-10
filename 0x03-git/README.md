@@ -1,4 +1,4 @@
-[0x03_git_banner](https://github.com/ronroeandassociates/assets/blob/master/images/0x03_git_banner.png)
+![0x03_git_banner](https://github.com/ronroeandassociates/assets/blob/master/images/0x03_git_banner.png)
 
 # 0x03. Git
 
