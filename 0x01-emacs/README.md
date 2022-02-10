@@ -1,6 +1,6 @@
 ![emacs the final frontier](https://github.com/ronroeandassociates/assets/blob/master/images/0x01_emacs_banner.png)
 
-# 0x01. Emacs0
+# 0x01. Emacs
 
 # Learning Objectives
 
